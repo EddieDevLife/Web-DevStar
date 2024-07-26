@@ -1,0 +1,24 @@
+/* Estilo para os itens do carrinho */
+.cart-item {
+    border: 1px solid #cccccc;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+/* Estilo para o botão de finalizar compra */
+#checkout {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+#checkout:hover {
+    background-color: #45a049;
+}
+
+/* Fundo amarelo para a página */
+body.bg-warning {
+    background-color: #ffc107 !important;
+}
